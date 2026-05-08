@@ -1,0 +1,24 @@
+ESP32 Firmware Development and Arduino IDE Configuration
+
+The ESP32 firmware was developed using the Arduino IDE, available on the official platform website https://www.arduino.cc/en/software. After installation, support for ESP32-based boards must be configured as follows:
+
+1. Open the IDE and navigate to File → Preferences.
+
+2. In the Additional Boards Manager URLs field, add the following addresses:
+
+https://dl.espressif.com/dl/package_esp32_index.json
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
+3. Go to Tools → Board → Boards Manager and search for ESP32.
+
+4. Install the package esp32 by Espressif Systems, version 2.0.17.
+
+Using version 2.0.17 is recommended because more recent releases may introduce compatibility issues with other libraries employed in this project.
+
+In addition, the ESP32Encoder library must be installed to enable motor encoder reading:
+
+1. Go to Tools → Manage Libraries.
+
+2. Search for ESP32Encoder.
+
+3. Install the latest available version.

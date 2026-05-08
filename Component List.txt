@@ -1,0 +1,33 @@
+Component List
+
+- ESP32 microcontroller
+- MPU6050 IMU
+- NIDEC 24H DC induction motor
+- MG90S servo motor
+- 18650 lithium-ion batteries
+- Battery holder
+- LM317 voltage regulator
+- Lego 88517/88516 traction wheel
+- 2GT-280 belt (6 mm width)
+- Physical structure (3D printed)
+
+Screws and nuts:
+- 6 M3 4 mm screws (three included with each NIDEC motor)
+- 1 M1 5 mm screw
+- 1 M1 8 mm screw
+- 10 M2 8 mm screws
+- 2 M3 10 mm screws
+- 12 M3 30 mm screws
+- 32 M4 10 mm screws
+- 1 M1 nut
+- 10 M2 nuts
+- 2 M3 nuts
+- 64 M4 nuts
+
+Wires for electronic connections:
+- 10 cm 8P female-to-male cable (included with the NIDEC motor)
+- 10 cm 8P female-to-male cable (included with the NIDEC motor)
+- 2 soldering wires of 10 cm
+- 4 soldering wires of 15 cm
+- 2 soldering wires of 20 cm
+- 3 soldering wires of 30 cm
