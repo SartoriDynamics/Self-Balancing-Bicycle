@@ -1,19 +1,26 @@
 # Self-Balancing Bicycle
 
-UFMG BIA-Kit is placed under the MIT License
-Copyright (c) 2024 by GTI (UFMG)
+A low-cost self-balancing bicycle platform developed for control research and education at UFMG.
 
-Hardware:
-* ESP-WROOM-32 30 pin development board
-* 2 Nidec 24-H
-* 2 Set Tire wheel 88516 + 88517
-* 1 2GT-280 belt, width 6mm
-* 1 All-Metal Gear Servo SG90
-* 1 DC(12V)-DC(5V) Adjustable Linear Regulator 
-* 1 Module GY-521 MPU-6050
-* 1 Power Bank Box Charger, DC 12V output, 3x18650 batteries
+This project is released under the MIT License.  
+Copyright (c) 2024 GTI - UFMG
 
-<img src="/Images/bia.png" alt="bia"/>
-<img src="/Images/esquematico.png" alt="esquematico"/>
+## Hardware
 
-[Demonstration video](https://www.youtube.com/watch?v=5PImU6t4usI)
+- ESP-WROOM-32 30-pin development board
+- 2× Nidec 24H DC motors
+- 2× Set Tire wheels (88516 + 88517)
+- 1× 2GT-280 belt (6 mm width)
+- 1× SG90 metal gear servo motor
+- 1× Adjustable DC-DC voltage regulator (12 V to 5 V)
+- 1× GY-521 MPU-6050 module
+- 1× 12 V battery holder for 3×18650 lithium-ion batteries
+
+## Images
+
+<img src="/Images/bia.png" alt="Self-balancing bicycle" width="500"/>
+<img src="/Images/esquematico.png" alt="Electronic schematic" width="500"/>
+
+## Video
+
+[Demonstration Video](https://www.youtube.com/watch?v=5PImU6t4usI)
