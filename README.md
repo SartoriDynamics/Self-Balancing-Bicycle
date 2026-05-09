@@ -18,8 +18,8 @@ Copyright (c) 2024 GTI - UFMG
 
 ## Images
 
-<img src="/Images/bia.png" alt="Self-balancing bicycle" width="500"/>
-<img src="/Images/esquematico.png" alt="Electronic schematic" width="500"/>
+<img src="/SBB Images/bia.png" alt="Self-balancing bicycle" width="500"/>
+<img src="/SBB Images/esquematico.png" alt="Electronic schematic" width="500"/>
 
 ## Video
 
