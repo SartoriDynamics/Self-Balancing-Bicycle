@@ -42,11 +42,16 @@ Copyright (c) 2024 GTI - UFMG
 
 ## 📂 Repository Structure
 
-- **Arduino codes/** → ESP32 firmware and control algorithms.
-- **Python codes/** → Data analysis and visualization scripts.
-- **SBB images/** → Project images and schematics.
-  - `bia.png` → Assembled self-balancing bicycle prototype.
-  - `esquematico.png` → Wiring and electronics diagram.
+- **Arduino IDE Configuration.txt** → Arduino IDE setup notes for ESP32.
+- **Arduino codes/** → ESP32 firmware.
+  - **LQR/** 
+    - `LQR.ino` → Main LQR control firmware.
+
+- **Python codes/** → Python notebooks and scripts for design and analysis.
+  - `LQR_Controller_Design.ipynb` → State-space modeling and LQR design.
+  - `Save_Data_During.ipynb` → Real-time data acquisition.
+  - `Save_Data_After.ipynb` → Post-processing and logging.
+  - `b2_experiment_model.ipynb` → Experimental model validation.
 
 ---
 
