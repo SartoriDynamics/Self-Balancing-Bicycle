@@ -100,6 +100,5 @@ Copyright (c) 2024 GTI - UFMG
       style="display: block; border: 1px solid #d0d7de;"
     />
   </a>
-  <br/>
   <em>Demonstration video of the bicycle.</em>
 </div>
