@@ -83,9 +83,8 @@ Copyright (c) 2024 GTI - UFMG
 
 ## 🎥 Video
 
-<div align="center" style="width: 700px; margin: auto;">
+<div align="center" style="width: 700px; margin: auto; text-align: center;">
   <a href="https://www.youtube.com/watch?v=5PImU6t4usI" target="_blank" style="text-decoration: none;">
-    <!-- YouTube logo centralizada acima da thumbnail -->
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg"
       alt="YouTube"
