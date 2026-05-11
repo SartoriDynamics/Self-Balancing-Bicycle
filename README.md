@@ -85,17 +85,14 @@ Copyright (c) 2024 GTI - UFMG
 
 <table>
   <tr>
-    <td align="center" border="1" cellpadding="12">
+    <td align="center" style="border: 1px solid #d0d7de; padding: 12px;">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/><br><br>
       <a href="https://www.youtube.com/watch?v=5PImU6t4usI" target="_blank">
-        <img src="https://img.youtube.com/vi/5PImU6t4usI/maxresdefault.jpg" 
-             alt="Self-Balancing Bicycle demonstration video" 
+        <img src="https://img.youtube.com/vi/5PImU6t4usI/maxresdefault.jpg"
+             alt="Self-Balancing Bicycle demonstration video"
              width="700"/>
       </a>
-
-      <p align="left">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-      </p>
-
+      <br><br>
       <em>Click the thumbnail to watch the demonstration video.</em>
     </td>
   </tr>
