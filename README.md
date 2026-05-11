@@ -83,14 +83,16 @@ Copyright (c) 2024 GTI - UFMG
 
 ## 🎥 Video
 
-<div align="center" style="width: 700px; margin: auto; text-align: center;">
+<div align="center" style="width: 700px; margin: auto;">
   <a href="https://www.youtube.com/watch?v=5PImU6t4usI" target="_blank" style="text-decoration: none;">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg"
-      alt="YouTube"
-      width="120"
-      style="display: block; margin: 0 auto 12px auto; background: rgba(255,255,255,0.92); padding: 8px 10px; border-radius: 10px; border: 1px solid #d0d7de;"
-    />
+    <div style="text-align: center;">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg"
+        alt="YouTube"
+        width="120"
+        style="background: rgba(255,255,255,0.92); padding: 8px 10px; border-radius: 10px; border: 1px solid #d0d7de; margin-bottom: 12px;"
+      />
+    </div>
     <img
       src="https://img.youtube.com/vi/5PImU6t4usI/maxresdefault.jpg"
       alt="Self-Balancing Bicycle demonstration video"
