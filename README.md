@@ -61,28 +61,27 @@ Copyright (c) 2024 GTI - UFMG
 ## 📸 Images
 
 <p align="center">
-  <img src="/SBB images/bia.png" alt="Assembled self-balancing bicycle prototype" width="500"/>
+  <img src="/SBB images/bia.png" alt="Self-balancing bicycle prototype" width="500"/>
   <br>
-  <span style="font-size:1.25em; font-weight:600;">Assembled self-balancing bicycle prototype.</span>
+  <em>Assembled self-balancing bicycle prototype.</em>
 </p>
 
 <p align="center">
-  <img src="/SBB images/esquematico.png" alt="ESP32 wiring and electronics diagram" width="500"/>
+  <img src="/SBB images/esquematico.png" alt="Electronic schematic" width="500"/>
   <br>
-  <span style="font-size:1.25em; font-weight:600;">ESP32 wiring and electronics connection diagram.</span>
+  <em>ESP32 wiring and electronics diagram.</em>
 </p>
 
 ---
 
 ## 🎥 Video
 
-<p align="center" style="position:relative; display:inline-block;">
-  <a href="https://www.youtube.com/watch?v=5PImU6t4usI" target="_blank" style="display:inline-block; position:relative;">
-    <img src="https://img.youtube.com/vi/5PImU6t4usI/maxresdefault.jpg" 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=5PImU6t4usI" target="_blank">
+    <img src="https://img.youtube.com/vi/5PImU6t4usI/hqdefault.jpg" 
          alt="Self-Balancing Bicycle demonstration video" 
          width="600"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg" alt="YouTube Logo" width="64" style="position:absolute;top:40%;left:45%;opacity:0.90;pointer-events:none;" />
   </a>
   <br>
-  <span style="font-size:1.3em; font-weight:600;">Demonstration video: the bicycle balancing in action. <b>Click the image to watch on YouTube.</b></span>
+  <em>Click the thumbnail to watch the demonstration video on YouTube.</em>
 </p>
