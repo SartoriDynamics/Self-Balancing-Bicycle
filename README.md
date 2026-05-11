@@ -25,8 +25,8 @@ Copyright (c) 2024 GTI - UFMG
 - Real-time balance control using ESP32.  
 - MPU-6050 inertial sensing for tilt estimation.  
 - Steering actuation using a servo motor.  
-- Low-cost mechanical structure for control experiments.  
-- Experimental platform for robotics and control education.
+- Low-cost physical structure.  
+- Experimental platform for robotics and control.
 
 ---
 
@@ -34,9 +34,8 @@ Copyright (c) 2024 GTI - UFMG
 
 1. The MPU-6050 measures the bicycle inclination and angular motion.  
 2. The ESP32 processes sensor data and computes the control action.  
-3. The servo motor adjusts the steering angle to stabilize the bicycle.  
-4. The DC motors provide propulsion during balancing experiments.  
-5. Experimental data can be collected for analysis and controller validation.
+3. The servo motor adjusts the torque to stabilize the bicycle.  
+4. Experimental data can be collected for analysis and controller validation.
 
 ---
 
@@ -64,13 +63,13 @@ Copyright (c) 2024 GTI - UFMG
 <p align="center">
   <img src="/SBB images/bia.png" alt="Assembled self-balancing bicycle prototype" width="500"/>
   <br>
-  <span style="font-size:1.25em; font-weight:600;">Figure 1 – Assembled self-balancing bicycle prototype: showing all main mechanical and electronic components fully installed.</span>
+  <span style="font-size:1.25em; font-weight:600;">Assembled self-balancing bicycle prototype.</span>
 </p>
 
 <p align="center">
   <img src="/SBB images/esquematico.png" alt="ESP32 wiring and electronics diagram" width="500"/>
   <br>
-  <span style="font-size:1.25em; font-weight:600;">Figure 2 – ESP32 wiring and electronics connection diagram: illustrating how the wiring is made for all electronic components.</span>
+  <span style="font-size:1.25em; font-weight:600;">ESP32 wiring and electronics connection diagram.</span>
 </p>
 
 ---
@@ -85,5 +84,5 @@ Copyright (c) 2024 GTI - UFMG
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg" alt="YouTube Logo" width="64" style="position:absolute;top:40%;left:45%;opacity:0.90;pointer-events:none;" />
   </a>
   <br>
-  <span style="font-size:1.3em; font-weight:600;">Video 1 – Demonstration video: the bicycle balancing in action, including laboratory overview and real test results. <b>Click the image to watch on YouTube.</b></span>
+  <span style="font-size:1.3em; font-weight:600;">Demonstration video: the bicycle balancing in action. <b>Click the image to watch on YouTube.</b></span>
 </p>
