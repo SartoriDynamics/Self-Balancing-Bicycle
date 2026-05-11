@@ -43,10 +43,8 @@ Copyright (c) 2024 GTI - UFMG
 ## 📂 Repository Structure
 
 - **Arduino IDE Configuration.txt** → ESP32 development board IDE configuration guide.
-- **Component List.txt** → Bill of materials (all project components).
-- **Guia de montagem.pdf** → Assembly guide (in Portuguese).
+- **Component List.txt** → All project components.
 - **SBB 3D printing files/** → 3D printable CAD models for physical parts.
-- **SBB images/** → Project photos and schematics.
 - **Arduino codes/** → ESP32 firmware and experiment code:
   - **Balance/**: Main code for bicycle balance control.
   - **Experiments/**: Test sketches for components/functions.
@@ -56,7 +54,6 @@ Copyright (c) 2024 GTI - UFMG
   - `Velocity_PI_Controller_Design.ipynb`: Velocity PI controller design.
   - `Save_Data_During.ipynb`: Real-time data acquisition.
   - `Save_Data_After.ipynb`: Post-experiment data processing.
-  - `motorControl.txt`, `motorStep.txt`, `pulseData.txt`, `stepData.txt`: Experimental and log data.
 
 ---
 
