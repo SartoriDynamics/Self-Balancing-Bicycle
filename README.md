@@ -83,18 +83,22 @@ Copyright (c) 2024 GTI - UFMG
 
 ## 🎥 Video
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=5PImU6t4usI" target="_blank" style="position: relative; display: inline-block; text-decoration: none;">
-    <img src="https://img.youtube.com/vi/5PImU6t4usI/maxresdefault.jpg"
-         alt="Self-Balancing Bicycle demonstration video"
-         width="700"
-         style="display:block; border: 1px solid #d0d7de;" />
-
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg"
-         alt="YouTube"
-         width="110"
-         style="position:absolute; top:12px; left:12px; background:rgba(255,255,255,0.92); padding:8px 10px; border-radius:10px; border:1px solid #d0d7de;" />
+<div align="center" style="position: relative; display: inline-block; width: 700px;">
+  <a href="https://www.youtube.com/watch?v=5PImU6t4usI" target="_blank" style="text-decoration: none;">
+    <img
+      src="https://img.youtube.com/vi/5PImU6t4usI/maxresdefault.jpg"
+      alt="Self-Balancing Bicycle demonstration video"
+      width="700"
+      style="display: block; border: 1px solid #d0d7de;"
+    />
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg"
+      alt="YouTube"
+      width="110"
+      style="position: absolute; top: 20px; left: 20px; background: rgba(255,255,255,0.92); padding: 8px 10px; border-radius: 10px; border: 1px solid #d0d7de;"
+    />
   </a>
-  <br>
+  <br/>
   <em>Demonstration video of the bicycle.</em>
-</p>
+</div>
+
