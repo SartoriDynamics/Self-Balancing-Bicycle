@@ -42,16 +42,21 @@ Copyright (c) 2024 GTI - UFMG
 
 ## 📂 Repository Structure
 
-- **Arduino IDE Configuration.txt** → Arduino IDE setup notes for ESP32.
-- **Arduino codes/** → ESP32 firmware.
-  - **LQR/** 
-    - `LQR.ino` → Main LQR control firmware.
-
-- **Python codes/** → Python notebooks and scripts for design and analysis.
-  - `LQR_Controller_Design.ipynb` → State-space modeling and LQR design.
-  - `Save_Data_During.ipynb` → Real-time data acquisition.
-  - `Save_Data_After.ipynb` → Post-processing and logging.
-  - `b2_experiment_model.ipynb` → Experimental model validation.
+- **Arduino IDE Configuration.txt** → ESP32 development board IDE configuration guide.
+- **Component List.txt** → Bill of materials (all project components).
+- **Guia de montagem.pdf** → Assembly guide (in Portuguese).
+- **SBB 3D printing files/** → 3D printable CAD models for physical parts.
+- **SBB images/** → Project photos and schematics.
+- **Arduino codes/** → ESP32 firmware and experiment code:
+  - **Balance/**: Main code for bicycle balance control.
+  - **Experiments/**: Test sketches for components/functions.
+  - **Xbox/**: Code for Xbox/joystick-based control.
+- **Python codes/** → Notebooks and scripts for analysis:
+  - `Balance_LQR_Controller_Design.ipynb`: LQR controller design and simulation.
+  - `Velocity_PI_Controller_Design.ipynb`: Velocity PI controller design.
+  - `Save_Data_During.ipynb`: Real-time data acquisition.
+  - `Save_Data_After.ipynb`: Post-experiment data processing.
+  - `motorControl.txt`, `motorStep.txt`, `pulseData.txt`, `stepData.txt`: Experimental and log data.
 
 ---
 
