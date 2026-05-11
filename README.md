@@ -46,9 +46,11 @@ Copyright (c) 2024 GTI - UFMG
 - **Component List.txt** → All project components.
 - **SBB 3D printing files/** → 3D printable CAD models for physical parts.
 - **Arduino codes/** → ESP32 firmware and experiment code:
-  - **Balance/**: Main code for bicycle balance control.
-  - **Experiments/**: Test sketches for components/functions.
-  - **Xbox/**: Code for Xbox/joystick-based control.
+  - **Balance/**: Main LQR balancing code (`LQR.ino`).
+  - **Experiments/**: Test sketches for controller and hardware:
+    - `LQR_experiment.ino`: Experimental LQR control and data collection.
+    - `test_components.ino`: Individual component testing.
+  - **Xbox/**: Joystick (Xbox) remote control (`xbox.ino`).
 - **Python codes/** → Notebooks and scripts for analysis:
   - `Balance_LQR_Controller_Design.ipynb`: LQR controller design and simulation.
   - `Velocity_PI_Controller_Design.ipynb`: Velocity PI controller design.
@@ -60,25 +62,28 @@ Copyright (c) 2024 GTI - UFMG
 ## 📸 Images
 
 <p align="center">
-  <img src="/SBB images/bia.png" alt="Assembled self-balancing bicycle prototype" width="500"/><br>
-  <sub>Assembled self-balancing bicycle prototype.</sub>
+  <img src="/SBB images/bia.png" alt="Assembled self-balancing bicycle prototype" width="500"/>
+  <br>
+  <span style="font-size:1.25em; font-weight:600;">Figure 1 – Assembled self-balancing bicycle prototype: showing all main mechanical and electronic components fully installed.</span>
 </p>
 
 <p align="center">
-  <img src="/SBB images/esquematico.png" alt="ESP32 wiring and electronics diagram" width="500"/><br>
-  <sub>ESP32 wiring and electronics diagram.</sub>
+  <img src="/SBB images/esquematico.png" alt="ESP32 wiring and electronics diagram" width="500"/>
+  <br>
+  <span style="font-size:1.25em; font-weight:600;">Figure 2 – ESP32 wiring and electronics connection diagram: illustrating how the wiring is made for all electronic components.</span>
 </p>
 
 ---
 
 ## 🎥 Video
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=5PImU6t4usI">
+<p align="center" style="position:relative; display:inline-block;">
+  <a href="https://www.youtube.com/watch?v=5PImU6t4usI" target="_blank" style="display:inline-block; position:relative;">
     <img src="https://img.youtube.com/vi/5PImU6t4usI/maxresdefault.jpg" 
          alt="Self-Balancing Bicycle demonstration video" 
          width="600"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg" alt="YouTube Logo" width="64" style="position:absolute;top:40%;left:45%;opacity:0.90;pointer-events:none;" />
   </a>
   <br>
-  <sub>Click the image to watch the demonstration video.</sub>
+  <span style="font-size:1.3em; font-weight:600;">Video 1 – Demonstration video: the bicycle balancing in action, including laboratory overview and real test results. <b>Click the image to watch on YouTube.</b></span>
 </p>
