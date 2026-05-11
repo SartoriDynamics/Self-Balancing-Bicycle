@@ -96,7 +96,7 @@ Copyright (c) 2024 GTI - UFMG
     <img
       src="https://img.youtube.com/vi/5PImU6t4usI/maxresdefault.jpg"
       alt="Self-Balancing Bicycle demonstration video"
-      width="500"
+      width="600"
       style="display: block; border: 1px solid #d0d7de;"
     />
   </a>
