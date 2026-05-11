@@ -60,28 +60,43 @@ Copyright (c) 2024 GTI - UFMG
 
 ## 📸 Images
 
-<p align="center">
-  <img src="/SBB images/bia.png" alt="Self-balancing bicycle prototype" width="500"/>
-  <br>
-  <em>Assembled self-balancing bicycle prototype.</em>
-</p>
-
-<p align="center">
-  <img src="/SBB images/esquematico.png" alt="Electronic schematic" width="500"/>
-  <br>
-  <em>ESP32 wiring and electronics diagram.</em>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%" border="1" cellpadding="12">
+      <img src="/SBB images/bia.png" alt="Assembled self-balancing bicycle prototype" width="100%"/>
+    </td>
+    <td align="center" width="50%" border="1" cellpadding="12">
+      <img src="/SBB images/esquematico.png" alt="ESP32 wiring and electronics diagram" width="100%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <em>Assembled self-balancing bicycle prototype.</em>
+    </td>
+    <td align="center">
+      <em>ESP32 wiring and electronics diagram.</em>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🎥 Video
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=5PImU6t4usI" target="_blank">
-    <img src="https://img.youtube.com/vi/5PImU6t4usI/hqdefault.jpg" 
-         alt="Self-Balancing Bicycle demonstration video" 
-         width="600"/>
-  </a>
-  <br>
-  <em>Click the thumbnail to watch the demonstration video on YouTube.</em>
-</p>
+<table>
+  <tr>
+    <td align="center" border="1" cellpadding="12">
+      <a href="https://www.youtube.com/watch?v=5PImU6t4usI" target="_blank">
+        <img src="https://img.youtube.com/vi/5PImU6t4usI/maxresdefault.jpg" 
+             alt="Self-Balancing Bicycle demonstration video" 
+             width="700"/>
+      </a>
+
+      <p align="left">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+      </p>
+
+      <em>Click the thumbnail to watch the demonstration video.</em>
+    </td>
+  </tr>
+</table>
