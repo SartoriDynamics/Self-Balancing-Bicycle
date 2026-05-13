@@ -7,7 +7,7 @@ Copyright (c) 2024 GTI - UFMG
 
 ---
 
-## Hardware
+## 🔩 Hardware
 
 - 1× ESP-WROOM-32 30-pin development board
 - 2× Nidec 24H DC motors
